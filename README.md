@@ -1,28 +1,20 @@
-# My Portfolio
-
-## About
+My Portfolio
 
 A personal portfolio website built for Builders Day, using plain HTML and CSS.
-
-## Technologies
+It describes project that I have built and building. 
+It have also describe skill that I have learned.
 
 - HTML
 - CSS
 
-## Projects
+My Project
 
-### Project One
+Student Portal
 
-Description + link
+https://github.com/mohammadannan705-web/Student-Portal.git
 
-### Project Two
+Flex Game
 
-Description + link
+https://github.com/mohammadannan705-web/flex-game.git
 
-### Project Three
-
-Description + link
-
-## Author
-
-Your Name
+Mohammad Annan Siddiqui
